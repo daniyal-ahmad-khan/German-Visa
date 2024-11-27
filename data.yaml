@@ -1,0 +1,6 @@
+train: /home/athenaai/Documents/Daniyal/visa-german/captcha.v1i.yolov8/train/images
+val: /home/athenaai/Documents/Daniyal/visa-german/captcha.v1i.yolov8/valid/images
+test: /home/athenaai/Documents/Daniyal/visa-german/captcha.v1i.yolov8/test/images
+
+nc: 16
+names: ['2', '6', '8', 'b', 'c', 'd', 'e', 'f', 'g', 'm', 'n', 'p', 'w', 'x', 'y', 'z']
